@@ -1,10 +1,10 @@
 # MSiA Python
 Assignments of Python Analystics class at Northwestern MSiA
 
-* 1. Complexity
-* 2. Functions
-* 3. Graphs
-* 5. Bayesian Network
-* 6. Imag Processing
-
-
+* assign 1. Complexity
+* assign 2. Functions
+* assign 3. Graphs
+* assign 5. Bayesian Network
+* assign 6. Imag Processing
+**output image
+![image](https://github.com/xxiang13/python/blob/master/msia-hw/assign6_output.jpg)
