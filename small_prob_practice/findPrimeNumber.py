@@ -2,7 +2,7 @@
 """
 Created on Sun Sep 27 16:01:27 2015
 
-@author: apple
+@author: Shawn Li
 IDE: Spyder python 3.4
 math reference: http://www.wikihow.com/Check-if-a-Number-Is-Prime
 """
